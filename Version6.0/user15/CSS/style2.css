@@ -39,3 +39,8 @@ dt:nth-last-child(2) {
 .hide {
     display: none;
 }
+
+.highlight {
+    background-color: yellow;
+    color: black;
+}
